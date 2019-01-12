@@ -1,6 +1,6 @@
 # serial_port
 
-A new Flutter plugin.
+A new Flutter plugin for android.
 
 ## Getting Started
 
